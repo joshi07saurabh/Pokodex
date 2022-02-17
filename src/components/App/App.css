@@ -1,0 +1,12 @@
+
+.container{
+    text-align: center;
+    background-color: rgb(245, 245, 173);
+    margin-top: 0px;
+    
+}
+h1{
+    font-size: 64px;
+    font-weight: bold;
+    font-family: cursive;
+}
